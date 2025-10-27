@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![duke]([https://images.com/cat_img.PNG](https://www.pngfind.com/pngs/m/668-6684239_file-duke3d-java-duke-hd-png-download.png))
+![668-6684239_file-duke3d-java-duke-hd-png-download](https://github.com/user-attachments/assets/b3a73e87-a0a1-4578-b5e2-6bfd3fce5a47)
+
