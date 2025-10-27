@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **sino956/sino956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![duke]([https://images.com/cat_img.PNG](https://www.pngfind.com/pngs/m/668-6684239_file-duke3d-java-duke-hd-png-download.png))
