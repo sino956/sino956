@@ -1,4 +1,4 @@
-## Hi
+## New project
 I just created a new tool called BlockDemo check it out : https://github.com/sino956/BlockDemo
 <!--
 **sino956/sino956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![668-6684239_file-duke3d-java-duke-hd-png-download](https://github.com/user-attachments/assets/b3a73e87-a0a1-4578-b5e2-6bfd3fce5a47)
 
